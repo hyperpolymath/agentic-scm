@@ -10,8 +10,15 @@
 
 [.text-center]
 *Internet-Draft Style Specification* +
-*Version 0.1.0-draft.1* +
+*Version 0.1.0* +
 *January 2026*
+
+[NOTE]
+====
+Formal grammar: link:agentic.abnf[ABNF Grammar] +
+JSON representation: link:agentic.schema.json[JSON Schema] +
+Versioning policy: link:VERSION-POLICY.adoc[Version Policy]
+====
 
 == Abstract
 
