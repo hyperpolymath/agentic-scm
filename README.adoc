@@ -1,6 +1,10 @@
-// SPDX-License-Identifier: AGPL-3.0-or-later
+image:https://img.shields.io/badge/license-PMPL--1.0-blue.svg[License,link="https://github.com/hyperpolymath/palimpsest-license"]
+// SPDX-License-Identifier: PMPL-1.0
 // SPDX-FileCopyrightText: 2025 Jonathan D.A. Jewell
 = AGENTIC.scm Specification
+
+
+
 :doctype: book
 :toc: left
 :toclevels: 3
@@ -8,7 +12,6 @@
 :source-highlighter: highlight.js
 :icons: font
 
-image:https://img.shields.io/badge/license-AGPL--3.0-blue.svg[AGPL-3.0,link="https://www.gnu.org/licenses/agpl-3.0"]
 image:https://img.shields.io/badge/philosophy-Palimpsest-purple.svg[Palimpsest,link="https://github.com/hyperpolymath/palimpsest-licence"]
 image:https://img.shields.io/badge/format-SCM_Family-orange.svg[SCM Family,link="https://github.com/hyperpolymath/standards"]
 
@@ -167,4 +170,4 @@ Contributions are welcome. Please ensure:
 
 == License
 
-AGPL-3.0-or-later. See LICENSE.
+PMPL-1.0-or-later. See LICENSE.
